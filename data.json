@@ -1,16 +1,1 @@
-[{
-	"id": 1,
-	"userId": 1,
-	"firstName": ["Jack", "text"],
-	"lastName": ["Doe", "text"]
-},{
-	"id": 2,
-	"userId": 1,
-	"firstName": ["Ellery", "text"],
-	"lastName": ["Queen", "text"]
-},{
-	"id": 3,
-	"userId": 1,
-	"firstName": ["Maria", "text"],
-	"lastName": ["Quinn", "text"]
-}]
+[{"id":1,"userId":1,"firstName":["Jack","text"],"lastName":["Doe","text"]},{"id":2,"userId":1,"firstName":["Ellery","text"],"lastName":["Queen","text"]},{"id":3,"userId":1,"firstName":["Maria","text"],"lastName":["Quinn","text"]},{"firstName":["","text"],"lastName":["","text"],"email":["","email"],"homePhone":["","tel"],"cellPhone":["","tel"],"birthday":["","date"],"website":["","url"],"address":["","text"],"userId":1,"id":4},{"firstName":["","text"],"lastName":["","text"],"email":["","email"],"homePhone":["","tel"],"cellPhone":["","tel"],"birthday":["","date"],"website":["","url"],"address":["","text"],"userId":1,"id":5},{"firstName":["Shreyans","text"],"lastName":["Jain","text"],"email":["","email"],"homePhone":["","tel"],"cellPhone":["","tel"],"birthday":[null,"date"],"website":["","url"],"address":["","text"],"userId":1,"id":6},{"firstName":["Shreyans","text"],"lastName":["Jain","text"],"email":["shreyansqt@gmail.com","email"],"homePhone":["09711110007","tel"],"cellPhone":["09711110007","tel"],"birthday":["","date"],"website":["","url"],"address":["D-20, Prashant Vihar","text"],"userId":1,"id":7}]
